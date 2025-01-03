@@ -634,7 +634,7 @@ class ZooAPIClient {
   }
 
   async main() {
-    this.log(`(https://t.me/D4rkCipherX)`, "warning");
+    this.log(`(https://t.me/airdropconfirm97)`, "warning");
     try {
       const { endpoint: hasIDAPI, message } = await checkBaseUrl();
       if (!hasIDAPI) return console.log(`Could not find API ID, try again later!`.red);
